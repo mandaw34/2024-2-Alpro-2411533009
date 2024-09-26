@@ -3,6 +3,7 @@ package pekan2;
 public class Ekspresi2 {
 
 	public static void main(String[] args) {
+		
 		System.out.println(14.0/4.0);
 		System.out.println(14.0%4.0);
 		System.out.println(32.0/5.0);

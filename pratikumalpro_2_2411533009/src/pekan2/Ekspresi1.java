@@ -3,6 +3,7 @@ package pekan2;
 public class Ekspresi1 {
 
 	public static void main(String[] args) {
+		
 		System.out.println("3 x 4 = ");
 		System.out.println(3*4);
 		System.out.println(14/4);

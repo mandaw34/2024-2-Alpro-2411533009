@@ -3,6 +3,7 @@ package pekan2;
 public class Variabel2 {
 
 	public static void main(String[] args) {
+		
 		int x;
 		x = 3;
 		System.out.println(x + "here"); // 3 here
